@@ -18,6 +18,7 @@ Using the Python Package:
 
 ``` Binomial(0.4,25)```
 
+Explanation:
 `Gaussian(10,7)`:  `mean`=10 and `standard deviation`= 7
 
 `Binomial(0.4,25)`:  `p` =10 and `n`= 7

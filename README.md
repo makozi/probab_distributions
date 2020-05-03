@@ -25,4 +25,4 @@ This project is licensed under the terms of the MIT license. See [License](https
 
 
 # Author
-[Marizu-Ibewiro Makozi](marizumakozi97@gmail.com)
+[Marizu-Ibewiro Makozi](https://twitter.com/marizu_makozi)
